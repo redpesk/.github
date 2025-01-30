@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://redpesk.bzh">
-<img alt="redpesk®" src="images/redpesk.png" style="width:30%;">
+<img alt="redpesk®" src="../images/redpesk.png" style="width:30%;">
 <br>
 </a>
 </div>
